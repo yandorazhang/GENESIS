@@ -1,0 +1,114 @@
+error_iter1: SNP error
+error_iter10: SNP error
+error_iter100: SNP error
+error_iter11: SNP error
+error_iter12: SNP error
+error_iter13: SNP error
+error_iter14: SNP error
+error_iter15: SNP error
+error_iter16: SNP error
+error_iter17: SNP error
+error_iter18: SNP error
+error_iter19: SNP error
+error_iter2: SNP error
+error_iter20: SNP error
+error_iter21: SNP error
+error_iter22: SNP error
+error_iter23: SNP error
+error_iter24: SNP error
+error_iter25: SNP error
+error_iter26: SNP error
+error_iter27: SNP error
+error_iter28: SNP error
+error_iter29: SNP error
+error_iter3: SNP error
+error_iter30: SNP error
+error_iter31: SNP error
+error_iter32: SNP error
+error_iter33: SNP error
+error_iter34: SNP error
+error_iter35: SNP error
+error_iter36: SNP error
+error_iter37: SNP error
+error_iter38: SNP error
+error_iter39: SNP error
+error_iter4: SNP error
+error_iter40: SNP error
+error_iter41: SNP error
+error_iter42: SNP error
+error_iter43: SNP error
+error_iter44: SNP error
+error_iter45: SNP error
+error_iter46: SNP error
+error_iter47: SNP error
+error_iter48: SNP error
+error_iter49: SNP error
+error_iter5: SNP error
+error_iter50: SNP error
+error_iter51: SNP error
+error_iter52: SNP error
+error_iter53: SNP error
+error_iter54: SNP error
+error_iter55: SNP error
+error_iter56: SNP error
+error_iter57: SNP error
+error_iter58: SNP error
+error_iter59: SNP error
+error_iter6: SNP error
+error_iter60: SNP error
+error_iter61: SNP error
+error_iter62: SNP error
+error_iter63: SNP error
+error_iter64: SNP error
+error_iter65: SNP error
+error_iter66: SNP error
+error_iter67: SNP error
+error_iter68: SNP error
+error_iter69: SNP error
+error_iter7: SNP error
+error_iter70: SNP error
+error_iter71: SNP error
+error_iter72: SNP error
+error_iter73: SNP error
+error_iter74: SNP error
+error_iter75: SNP error
+error_iter76: SNP error
+error_iter77: SNP error
+error_iter78: SNP error
+error_iter79: SNP error
+error_iter8: SNP error
+error_iter80: SNP error
+error_iter81: SNP error
+error_iter82: SNP error
+error_iter83: SNP error
+error_iter84: SNP error
+error_iter85: SNP error
+error_iter86: SNP error
+error_iter87: SNP error
+error_iter88: SNP error
+error_iter89: SNP error
+error_iter9: SNP error
+error_iter90: SNP error
+error_iter91: SNP error
+error_iter92: SNP error
+error_iter93: SNP error
+error_iter94: SNP error
+error_iter95: SNP error
+error_iter96: SNP error
+error_iter97: SNP error
+error_iter98: SNP error
+error_iter99: SNP error
+heightGWAS
+LDwindow0.5MB_cutoff0.05
+LDwindow0.5MB_cutoff0.1
+LDwindow0.5MB_cutoff0.2
+LDwindow1MB_cutoff0.05
+LDwindow1MB_cutoff0.1
+LDwindow1MB_cutoff0.2
+LDwindow2MB_cutoff0.05
+LDwindow2MB_cutoff0.1
+LDwindow2MB_cutoff0.2
+w_hm3.noMHC.snplist
+pairwiseLD
+TaggingSNPinx
+

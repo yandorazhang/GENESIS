@@ -1,0 +1,12 @@
+Package: GENESIS
+Type: Package
+Title: GENetic Effect-Size distribution Inference from Summary-level data
+Version: 1.0
+Date: 2018-08-16
+Author: Yan Zhang
+Maintainer: Yan Zhang <yandorazhang@gmail.com>
+Description: Estimate effect size distribution using summary-level statistics from genome-wide association studies.
+License: GPL(>=2)
+Imports: Rcpp (>= 0.12.12), doParallel, foreach, parallel, MASS
+LinkingTo: Rcpp, RcppArmadillo
+NeedsCompilation: yes

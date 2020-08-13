@@ -1,0 +1,10 @@
+load("/Users/dorazhang/Dropbox/2016_06_Gene_revision/code_final_realdata/Data_SummaryLevelConsortium/revision2/output/GIANT_Height2010/fit3_LDwindow1MB_LDcutoff0.1.RData")
+fit$estimates
+load("/Users/dorazhang/Dropbox/2016_06_Gene_revision/code_final_realdata/Data_SummaryLevelConsortium/revision2/output/GIANT_BMI2010/fit3_LDwindow1MB_LDcutoff0.1.RData")
+fit$estimates
+load("/Users/dorazhang/Dropbox/2016_06_Gene_revision/code_final_realdata/Data_SummaryLevelConsortium/revision2/output/GIANT_Height2010/fit3_LDwindow1MB_LDcutoff0.1.RData")
+fit$estimates
+te = fit$estimates$Covariance matrix of parameter estimates
+te = fit$estimates$`Covariance matrix of parameter estimates`
+te
+as.vector(te)
